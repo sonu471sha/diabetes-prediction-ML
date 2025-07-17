@@ -4,5 +4,4 @@ This project predicts the likelihood of diabetes using a Support Vector Machine 
 - `diabetesprediction.ipynb`: Main notebook
 - `diabetes.csv`: Dataset used
 ## Note
-Make sure `diabetes.csv` is located in the **same directory** as the notebook.  
-If not, update the file path.
+Before running the notebook, ensure that the path to `diabetes.csv` is correct based on your environment
